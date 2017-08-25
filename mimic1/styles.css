@@ -1,0 +1,57 @@
+
+h1 {
+  text-align: center;
+  border-top: 1px solid black;
+  border-bottom: 2px solid black;
+}
+
+
+.r1 {
+  text-align: center;
+}
+
+.s1 {
+  border: 1px solid #3E4ACC;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: auto;
+  background-color: lightblue;
+  
+}
+
+tr, th, td {
+border: 5px solid black;
+text-align: center;
+margin: auto;
+padding-left: 70px;
+padding-right: 70px;
+
+
+}
+
+.tbl {
+margin: auto;
+width: 80%;
+
+}
+
+.d1 {
+  float: left;
+}
+
+.d2 {
+  float: right;
+}
+
+
+.img {
+  border-top: 1px solid beige;
+}
+
+.bunny {
+  float: left;
+}
+
+
